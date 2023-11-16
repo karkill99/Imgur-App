@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Imgur-App/static/css/main.fcf9ed05.css",
+    "main.js": "/Imgur-App/static/js/main.0eabc957.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Imgur-App/static/js/787.28cb0dcd.chunk.js",
+    "static/media/imgur-bg.png": "/Imgur-App/static/media/imgur-bg.f51d3f34235dea1b7cdd.png",
+    "static/media/imgur-logo.png": "/Imgur-App/static/media/imgur-logo.a6fd2fd29a01c9f56cbd.png",
+    "index.html": "/Imgur-App/index.html",
+    "main.fcf9ed05.css.map": "/Imgur-App/static/css/main.fcf9ed05.css.map",
+    "main.0eabc957.js.map": "/Imgur-App/static/js/main.0eabc957.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Imgur-App/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcf9ed05.css",
+    "static/js/main.0eabc957.js"
+  ]
+}
